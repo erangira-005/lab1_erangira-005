@@ -13,7 +13,7 @@ Readme.md | This file
 
  Requirements
 
-Python 3.x — no external libraries needed (uses built-in `csv`, `sys`, `os`)
+Python 3.x — no external libraries needed (uses built-in 'csv', 'sys', 'os')
 Bash — any Unix/Linux/macOS terminal, or Git Bash on Windows
 
  How to Run the Python Script
